@@ -1,8 +1,8 @@
 # Salut, je suis Oussama Belhaj Rhouma ! 👋
 
-**Ingénieur Logiciel | Étudiant en Mastère Spécialisé Big Data & IA à Télécom Paris**
+**Ingénieur Logiciel | Étudiant en Mastère Spécialisé Data IA & MLops à Télécom Paris**
 
-Anciennement Ingénieur Full Stack spécialisé dans l'écosystème Java/Spring & Angular, je suis actuellement en train de perfectionner mes compétences en **Big Data, Intelligence Artificielle et MLOps** à **Télécom Paris**.
+Anciennement Ingénieur Full Stack spécialisé dans l'écosystème Java/Spring & Angular, je suis actuellement en train de perfectionner mes compétences en **Data, Intelligence Artificielle et MLOps** à **Télécom Paris**.
 
 Je suis passionné par la construction de systèmes scalables, le traitement de données massives et l'implémentation de pipelines ML robustes.
 
@@ -15,26 +15,52 @@ Je suis passionné par la construction de systèmes scalables, le traitement de 
 
 ---
 
+
+### 🎓 Éducation
+
+* **2025 - 2026 :** Mastère Spécialisé **Expert Data IA & MLops** - *Télécom Paris*
+* **2021 - 2024 :** Diplôme National d'Ingénieur en Génie Logiciel - *Faculté des Sciences de Tunis (FST)*
+* **2019 - 2021 :** Cycle Préparatoire (Maths-Physique) - *IPEIT*
+
+---
+
 ### 🛠️ Compétences Techniques
+
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![HDFS](https://img.shields.io/badge/HDFS-66CCFF?style=for-the-badge&logo=apache&logoColor=black)
+![YARN](https://img.shields.io/badge/YARN-66CCFF?style=for-the-badge&logo=apache&logoColor=black)
+![Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![HBase](https://img.shields.io/badge/HBase-34323B?style=for-the-badge)
+<br>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### 🧠 Data Science & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=for-the-badge)
-
-#### 🐘 Big Data
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![HBase](https://img.shields.io/badge/HBase-34323B?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<br>
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-yellow?style=for-the-badge)
+![Time Series](https://img.shields.io/badge/Time%20Series-blue?style=for-the-badge)
+![SVM](https://img.shields.io/badge/SVM-F7931E?style=for-the-badge)
+![Graphs](https://img.shields.io/badge/Graphs-3776AB?style=for-the-badge)
 
 #### 💻 Full Stack & DevOps
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -82,12 +108,6 @@ Avant de me spécialiser en Data, j'ai acquis une solide expérience en dévelop
     * Refonte d'IHM et automatisation de tests (Selenium/Cucumber).
 
 ---
-
-### 🎓 Éducation
-
-* **2025 - 2026 :** Mastère Spécialisé **Expert Data IA & MLops** - *Télécom Paris*
-* **2021 - 2024 :** Diplôme National d'Ingénieur en Génie Logiciel - *Faculté des Sciences de Tunis (FST)*
-* **2019 - 2021 :** Cycle Préparatoire (Maths-Physique) - *IPEIT*
 
 ---
 
