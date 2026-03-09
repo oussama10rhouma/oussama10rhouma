@@ -93,8 +93,7 @@ Avant de me spécialiser en Data, j'ai acquis une solide expérience en dévelop
 
 ### 📫 Me Contacter
 
-* 📧 **Email :** [Moussama10rhouma@gmail.com](mailto:Moussama10rhouma@gmail.com)
+* 📧 **Email :** [oussama10rhouma@gmail.com](mailto:oussama10rhouma@gmail.com)
 * 👔 **LinkedIn :** [linkedin.com/in/oussama-belhaj-rhouma](https://linkedin.com/in/oussama-belhaj-rhouma)
 
 ---
-*Généré avec ❤️ et un peu d'IA.*
