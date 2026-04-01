@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-oussama10rhouma.github.io-6c63ff?style=for-the-badge)](https://oussama10rhouma.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-oussama10rhouma.github.io-6c63ff?style=for-the-badge)](https://oussama10rhouma.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-belhaj-rhouma/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belhajrhouma@telecom-paris.fr)
 
@@ -349,7 +349,9 @@ Setup hétérogène (Windows Master, 3 Workers Linux, NFS). WordCount, tri de fr
 
 **💬 Ouvert aux opportunités de stage et collaboration en Data, IA & MLOps**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Mon_Portfolio-oussama10rhouma.github.io-6c63ff?style=for-the-badge)](https://oussama10rhouma.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Mon_Portfolio-oussama10rhouma.github.io-6c63ff?style=for-the-badge)](https://oussama10rhouma.github.io/portfolio/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-belhaj-rhouma/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belhajrhouma@telecom-paris.fr)  
 
 </div>
 
