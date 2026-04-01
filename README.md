@@ -31,7 +31,7 @@ class OussamaBelhajRhouma:
         return "Building production-grade AI systems with LangGraph, RAG & MLOps pipelines"
 ```
 
-> Ingénieur logiciel diplômé de la **Faculté des Sciences de Tunis**, actuellement en **Mastère Spécialisé Expert Data, IA & MLOps** à **Télécom Paris** (classé N°1 Eduniversal 2024 en Data Science & IA). Passionné par la conception de systèmes scalables, l'ingénierie de données massives et le déploiement de modèles ML en production.
+> Software Engineer graduated from the **Faculty of Sciences of Tunis**, currently pursuing a **Specialized Master's in Expert Data, AI & MLOps** at **Télécom Paris** (ranked #1 by Eduniversal 2024 in Data Science & AI). Passionate about designing scalable systems, large-scale data engineering, and deploying ML models in production.
 
 ---
 
@@ -43,17 +43,17 @@ class OussamaBelhajRhouma:
 <tr>
 <td align="center" width="33%">
 
-**3+**<br/>Années d'expérience
+**3+**<br/>Years of Experience
 
 </td>
 <td align="center" width="33%">
 
-**12+**<br/>Projets réalisés
+**12+**<br/>Projects Completed
 
 </td>
 <td align="center" width="33%">
 
-**25+**<br/>Technologies maîtrisées
+**25+**<br/>Technologies Mastered
 
 </td>
 </tr>
@@ -63,20 +63,20 @@ class OussamaBelhajRhouma:
 
 ---
 
-## 🎓 Formation
+## 🎓 Education
 
-| Période | Diplôme | Établissement |
+| Period | Degree | Institution |
 |:---:|:---|:---|
-| 🔵 **2025 – 2026** | **Mastère Spécialisé — Expert Data, IA & MLOps** | Télécom Paris, France |
-| 🟢 **2021 – 2024** | **Diplôme d'Ingénieur — Informatique** | Faculté des Sciences de Tunis |
-| 🟡 **2019 – 2021** | **Cycle Préparatoire — Mathématiques-Physique** | IPEIT, Tunis |
+| 🔵 **2025 – 2026** | **Specialized Master's — Expert Data, AI & MLOps** | Télécom Paris, France |
+| 🟢 **2021 – 2024** | **Engineering Degree — Computer Science** | Faculty of Sciences of Tunis |
+| 🟡 **2019 – 2021** | **Preparatory Cycle — Mathematics & Physics** | IPEIT, Tunis |
 
 ---
 
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><strong>🧠 Intelligence Artificielle & Data Science</strong></summary>
+<summary><strong>🧠 Artificial Intelligence & Data Science</strong></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -120,7 +120,7 @@ class OussamaBelhajRhouma:
 </details>
 
 <details open>
-<summary><strong>💻 Langages & Full-Stack</strong></summary>
+<summary><strong>💻 Languages & Full-Stack</strong></summary>
 <br/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -139,7 +139,7 @@ class OussamaBelhajRhouma:
 </details>
 
 <details open>
-<summary><strong>⚙️ DevOps & Bases de Données</strong></summary>
+<summary><strong>⚙️ DevOps & Databases</strong></summary>
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -160,14 +160,14 @@ class OussamaBelhajRhouma:
 
 ---
 
-## 🏆 Projets Phares
+## 🏆 Featured Projects
 
-### 🩺 [DocRAG-MD — Plateforme RAG Médicale Multi-Agents](https://github.com/Ahmedfekhfakh/DocRAG-MD-)
+### 🩺 [DocRAG-MD — Multi-Agent Medical RAG Platform](https://github.com/Ahmedfekhfakh/DocRAG-MD-)
 > *Production-grade clinical Q&A platform — 62%+ MedMCQA accuracy*
 
 <table><tr><td>
 
-**Architecture :** 4 agents LangGraph spécialisés (diagnostic, pharmacologie, général, évaluateur) avec routage LLM intelligent, GraphRAG via PrimeKG (100K+ nœuds, 4M+ arêtes), Self-RAG et Deep Search sur 301K chunks StatPearls + 36M+ articles PubMed. CRAG confidence gating, observabilité Langfuse, frontend React, 2 serveurs MCP (FastMCP). 11 services Docker.
+**Architecture:** 4 specialized LangGraph agents (diagnostic, pharmacology, general, evaluator) with intelligent LLM routing, GraphRAG via PrimeKG (100K+ nodes, 4M+ edges), Self-RAG and Deep Search over 301K StatPearls chunks + 36M+ PubMed articles. CRAG confidence gating, Langfuse observability, React frontend, 2 MCP servers (FastMCP). 11 Docker services.
 
 **LLMs :** Gemini 2.5 Flash/Pro · BioMistral 7B (local) · GPT-4
 
@@ -187,11 +187,11 @@ class OussamaBelhajRhouma:
 ---
 
 ### 🛡️ [FraudGuard — Bank Fraud Detection Pipeline | MLOps](https://github.com/Ahmedfekhfakh/Fraudguard)
-> *Pipeline MLOps de bout en bout pour la détection de fraudes bancaires*
+> *End-to-end MLOps pipeline for bank fraud detection*
 
 <table><tr><td>
 
-Automatisation de l'entraînement continu et du déploiement d'un modèle de classification de fraudes bancaires. Orchestration Airflow, tracking MLflow, serving FastAPI, monitoring Elasticsearch, UI Streamlit. CI/CD via GitHub Actions, déployé sur Kubernetes.
+Automated continuous training and deployment of a bank fraud classification model. Airflow orchestration, MLflow tracking, FastAPI serving, Elasticsearch monitoring, Streamlit UI. CI/CD via GitHub Actions, deployed on Kubernetes.
 
 </td></tr></table>
 
@@ -207,11 +207,11 @@ Automatisation de l'entraînement continu et du déploiement d'un modèle de cla
 ---
 
 ### 📈 [Gaming vs Stock Market Prediction](https://github.com/Ahmedfekhfakh/stock-game-correlation)
-> *Pipeline Data Engineering corrélant jeux vidéo et marchés boursiers*
+> *Data Engineering pipeline correlating video games and stock markets*
 
 <table><tr><td>
 
-Extraction depuis SteamSpy, Twitch et Yahoo Finance. Transformation Apache Spark en Data Lake 3 couches sur S3. Corrélation de Pearson glissante et modèle XGBoost. Orchestré par Airflow, visualisé via Kibana, 100% Dockerisé.
+Data extraction from SteamSpy, Twitch, and Yahoo Finance. Apache Spark transformation into a 3-layer Data Lake on S3. Rolling Pearson correlation and XGBoost model. Orchestrated by Airflow, visualized via Kibana, 100% Dockerized.
 
 </td></tr></table>
 
@@ -226,11 +226,11 @@ Extraction depuis SteamSpy, Twitch et Yahoo Finance. Transformation Apache Spark
 ---
 
 ### 💄 [L'Oréal Beauty Tech — Shade Clustering](https://github.com/Telecom-Paris-Team-L-oreal-2025-2026/Loreal-Shades-Clustering)
-> *Projet Fil Rouge Data Science — Segmentation de teintes cosmétiques*
+> *Year-long Data Science Project — Cosmetic Shade Segmentation*
 
 <table><tr><td>
 
-Segmentation des teintes de produits cosmétiques pour améliorer les recommandations. Évaluation de Clustering, KNN et Gradient Boosting avec un stack Python complet.
+Cosmetic product shade segmentation to improve recommendations. Evaluation of Clustering, KNN, and Gradient Boosting with a full Python stack.
 
 </td></tr></table>
 
@@ -240,12 +240,12 @@ Segmentation des teintes de produits cosmétiques pour améliorer les recommanda
 
 ---
 
-### 🥗 [MangeTaMain — Recommandation de Recettes Intelligent](https://github.com/tahianahajanirina/mangetamain)
-> *Système ML full-stack combinant NLP, classification et filtrage collaboratif*
+### 🥗 [MangeTaMain — Intelligent Recipe Recommendation](https://github.com/tahianahajanirina/mangetamain)
+> *Full-stack ML system combining NLP, classification, and collaborative filtering*
 
 <table><tr><td>
 
-Application ML sur 230K+ recettes et 1M+ avis. Filtrage collaboratif (SVD), clustering (HDBSCAN), prédiction de temps de cuisson, classification nutritionnelle, analyse de sentiment NLP. Chatbot RAG (Google Gemini), UI Streamlit, Docker et CI/CD.
+ML application on 230K+ recipes and 1M+ reviews. Collaborative filtering (SVD), clustering (HDBSCAN), cooking time prediction, nutritional classification, NLP sentiment analysis. RAG chatbot (Google Gemini), Streamlit UI, Docker and CI/CD.
 
 </td></tr></table>
 
@@ -258,11 +258,11 @@ Application ML sur 230K+ recettes et 1M+ avis. Filtrage collaboratif (SVD), clus
 ---
 
 ### 🏗️ [Hadoop Cluster & Sentiment Analysis](https://github.com/oussama10rhouma)
-> *Déploiement d'un cluster Hadoop complet pour le traitement de 50 Go d'avis Amazon*
+> *Full Hadoop cluster deployment for processing 50 GB of Amazon reviews*
 
 <table><tr><td>
 
-Cluster de 4 serveurs. HDFS, YARN, ZooKeeper, HBase. PySpark pour le prétraitement distribué et Spark ML pour l'analyse de sentiment.
+4-server cluster. HDFS, YARN, ZooKeeper, HBase. PySpark for distributed preprocessing and Spark ML for sentiment analysis.
 
 </td></tr></table>
 
@@ -273,12 +273,12 @@ Cluster de 4 serveurs. HDFS, YARN, ZooKeeper, HBase. PySpark pour le prétraitem
 
 ---
 
-### 🗺️ [MapReduce Distribué from Scratch](https://github.com/oussama10rhouma/mapreduce-distributed)
-> *Moteur MapReduce personnalisé en Python pour 20 Go de Common Crawl*
+### 🗺️ [Distributed MapReduce from Scratch](https://github.com/oussama10rhouma/mapreduce-distributed)
+> *Custom MapReduce engine in Python for 20 GB of Common Crawl*
 
 <table><tr><td>
 
-Setup hétérogène (Windows Master, 3 Workers Linux, NFS). WordCount, tri de fréquences distribué, détection de langues. Benchmarks avec la loi d'Amdahl.
+Heterogeneous setup (Windows Master, 3 Linux Workers, NFS). WordCount, distributed frequency sorting, language detection. Benchmarks using Amdahl's law.
 
 </td></tr></table>
 
@@ -289,25 +289,25 @@ Setup hétérogène (Windows Master, 3 Workers Linux, NFS). WordCount, tri de fr
 
 ---
 
-## 💼 Expérience Professionnelle
+## 💼 Professional Experience
 
 ```
-📅 Août 2024 — Août 2025    🏢 Advanced Derivative Solutions    💼 Ingénieur Logiciel (CDI)
-   ├─ Plateforme financière : gestion devises, facturation, crédits
-   ├─ Import/export données clients, profils & authentification sécurisée
-   └─ Stack : Java · Spring Boot · Angular · PostgreSQL · Spring Security · Hibernate
+📅 Aug 2024 — Aug 2025     🏢 Advanced Derivative Solutions    💼 Software Engineer (Full-time)
+   ├─ Financial platform: currency management, billing, loans
+   ├─ Client data import/export, profiles & secure authentication
+   └─ Stack: Java · Spring Boot · Angular · PostgreSQL · Spring Security · Hibernate
 
-📅 Fév 2024 — Juil 2024     🏢 Advanced Derivative Solutions    🎓 Stage PFE (6 mois)
-   ├─ Optimisation des opérations financières : comptes, factures, devises
-   └─ Stack : Java · Spring Boot · Angular · MySQL · Spring Data · Highcharts
+📅 Feb 2024 — Jul 2024     🏢 Advanced Derivative Solutions    🎓 Final Year Internship (6 months)
+   ├─ Financial operations optimization: accounts, invoices, currencies
+   └─ Stack: Java · Spring Boot · Angular · MySQL · Spring Data · Highcharts
 
-📅 Juil 2023 — Août 2023    🏢 Sofrecom (Orange)               🎓 Stage (2 mois)
-   ├─ Refonte UI supervision avec bibliothèque Boosted d'Orange
-   └─ Stack : Java · Spring Boot · Angular · Selenium · Cucumber · TestNG
+📅 Jul 2023 — Aug 2023     🏢 Sofrecom (Orange)               🎓 Internship (2 months)
+   ├─ Supervision UI redesign using Orange's Boosted library
+   └─ Stack: Java · Spring Boot · Angular · Selenium · Cucumber · TestNG
 
-📅 Juin 2022 — Juil 2022    🏢 SONEDE                          🎓 Stage (2 mois)
-   ├─ Site web signalement de fuites avec carte interactive
-   └─ Stack : PHP · jQuery · JavaScript · HTML/CSS
+📅 Jun 2022 — Jul 2022     🏢 SONEDE                          🎓 Internship (2 months)
+   ├─ Leak reporting website with interactive map
+   └─ Stack: PHP · jQuery · JavaScript · HTML/CSS
 ```
 
 ---
@@ -347,9 +347,9 @@ Setup hétérogène (Windows Master, 3 Workers Linux, NFS). WordCount, tri de fr
 
 <br/><br/>
 
-**💬 Ouvert aux opportunités de stage et collaboration en Data, IA & MLOps**
+**💬 Open to internship opportunities and collaboration in Data, AI & MLOps**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Mon_Portfolio-oussama10rhouma.github.io-6c63ff?style=for-the-badge)](https://oussama10rhouma.github.io/portfolio/)  
+[![Portfolio](https://img.shields.io/badge/🌐_My_Portfolio-oussama10rhouma.github.io-6c63ff?style=for-the-badge)](https://oussama10rhouma.github.io/portfolio/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-belhaj-rhouma/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belhajrhouma@telecom-paris.fr)  
 
